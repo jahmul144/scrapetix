@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3.5
 from pyvirtualdisplay import Display
 from selenium import webdriver
 from bs4 import BeautifulSoup
